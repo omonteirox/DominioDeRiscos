@@ -1,0 +1,12 @@
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.deps.json
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.dll
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\bin\Debug\net7.0\PaymentContext.Shared.pdb
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.dll
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\refint\PaymentContext.Shared.dll
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.pdb
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\ref\PaymentContext.Shared.dll
+C:\dev\.net\DominioDeRiscos\PaymentContext\PaymentContext.Shared\obj\Debug\net7.0\PaymentContext.Shared.csproj.AssemblyReference.cache
