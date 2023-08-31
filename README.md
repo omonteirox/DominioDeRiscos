@@ -1,6 +1,6 @@
 # Domínio de Riscos
 
-- Linguagem Ubíquoa com o cliente e sua importância em cenários reais
+- Linguagem Ubíqua com o cliente e sua importância em cenários reais
 - Dividir para conquistar é importante
 - Domínio Anêmico
   - Só reflete o que está no banco, vai fazer as verificações por Store procedures no banco. (Não é possível testar as procedures).
